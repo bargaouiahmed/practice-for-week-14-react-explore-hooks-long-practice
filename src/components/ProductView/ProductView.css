@@ -33,7 +33,9 @@
   width: 20px;
   height: 45px;
 }
-
+.product-side-panel-toggle:hover{
+  cursor: pointer;
+}
 /* NOTE: Special handing to put the toggle OUTSIDE the details panel so it does
    not affect the layout (content offset, still showing background when closed)
 */
